@@ -6,5 +6,25 @@ p{
 }
 h1{
     font-size: "72px";
-    color: magenta;
+    font-family: monospace;
+}
+h2{
+    background-color: black;
+    color: yellow;
+}
+h3{
+    background-color: green;
+    color: pink
+}
+.color-yellow {
+    color: yellow;
+}
+#background-color-black{
+    background-color: black;
+}
+#background-color-red {
+    background-color: red;
+}
+.text-color-white {
+    color:white;
 }
